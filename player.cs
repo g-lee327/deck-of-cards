@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace war
+namespace WAR
 {
     public class Player
     {

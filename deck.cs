@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 
-namespace war{
+namespace WAR
+{
     public class Deck
     {
         List<Card> cards {get;set;}
@@ -35,7 +36,7 @@ namespace war{
         }
         public void shuffle() {
             Random r = new Random();
-            for (int i = cards.Count -1; i < 0; i--)
+            for (int i = cards.Count -1; i > 0; i--)
             {
                 int index = r.Next(i);
                 
