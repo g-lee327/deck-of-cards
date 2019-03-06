@@ -1,0 +1,11 @@
+/Users/gina/Desktop/C#/WAR/obj/Debug/netcoreapp2.1/WAR.csprojAssemblyReference.cache
+/Users/gina/Desktop/C#/WAR/obj/Debug/netcoreapp2.1/WAR.csproj.CoreCompileInputs.cache
+/Users/gina/Desktop/C#/WAR/obj/Debug/netcoreapp2.1/WAR.AssemblyInfoInputs.cache
+/Users/gina/Desktop/C#/WAR/obj/Debug/netcoreapp2.1/WAR.AssemblyInfo.cs
+/Users/gina/Desktop/C#/WAR/bin/Debug/netcoreapp2.1/WAR.deps.json
+/Users/gina/Desktop/C#/WAR/bin/Debug/netcoreapp2.1/WAR.runtimeconfig.json
+/Users/gina/Desktop/C#/WAR/bin/Debug/netcoreapp2.1/WAR.runtimeconfig.dev.json
+/Users/gina/Desktop/C#/WAR/bin/Debug/netcoreapp2.1/WAR.dll
+/Users/gina/Desktop/C#/WAR/bin/Debug/netcoreapp2.1/WAR.pdb
+/Users/gina/Desktop/C#/WAR/obj/Debug/netcoreapp2.1/WAR.dll
+/Users/gina/Desktop/C#/WAR/obj/Debug/netcoreapp2.1/WAR.pdb
